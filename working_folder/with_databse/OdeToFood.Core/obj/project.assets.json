@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {
+    ".NETCoreApp,Version=v3.1": {
       "System.ComponentModel.Annotations/4.7.0": {
         "type": "package",
         "compile": {
@@ -105,7 +105,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": [
+    ".NETCoreApp,Version=v3.1": [
       "System.ComponentModel.Annotations >= 4.7.0"
     ]
   },
@@ -126,14 +126,14 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netstandard2.1"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netstandard2.1": {
+        "netcoreapp3.1": {
           "projectReferences": {}
         }
       },
@@ -144,7 +144,7 @@
       }
     },
     "frameworks": {
-      "netstandard2.1": {
+      "netcoreapp3.1": {
         "dependencies": {
           "System.ComponentModel.Annotations": {
             "target": "Package",
@@ -162,7 +162,7 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "NETStandard.Library": {
+          "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
