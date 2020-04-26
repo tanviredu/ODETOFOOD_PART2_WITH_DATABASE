@@ -1,0 +1,8 @@
+A:\ODETOFOOD_PART2_WITH_DATABASE\backup\04\demos\demos\after\OdeToFood.Core\bin\Debug\netstandard21\OdeToFood.Core.deps.json
+A:\ODETOFOOD_PART2_WITH_DATABASE\backup\04\demos\demos\after\OdeToFood.Core\bin\Debug\netstandard21\OdeToFood.Core.dll
+A:\ODETOFOOD_PART2_WITH_DATABASE\backup\04\demos\demos\after\OdeToFood.Core\bin\Debug\netstandard21\OdeToFood.Core.pdb
+A:\ODETOFOOD_PART2_WITH_DATABASE\backup\04\demos\demos\after\OdeToFood.Core\obj\Debug\netstandard21\OdeToFood.Core.csproj.CoreCompileInputs.cache
+A:\ODETOFOOD_PART2_WITH_DATABASE\backup\04\demos\demos\after\OdeToFood.Core\obj\Debug\netstandard21\OdeToFood.Core.AssemblyInfoInputs.cache
+A:\ODETOFOOD_PART2_WITH_DATABASE\backup\04\demos\demos\after\OdeToFood.Core\obj\Debug\netstandard21\OdeToFood.Core.AssemblyInfo.cs
+A:\ODETOFOOD_PART2_WITH_DATABASE\backup\04\demos\demos\after\OdeToFood.Core\obj\Debug\netstandard21\OdeToFood.Core.dll
+A:\ODETOFOOD_PART2_WITH_DATABASE\backup\04\demos\demos\after\OdeToFood.Core\obj\Debug\netstandard21\OdeToFood.Core.pdb
